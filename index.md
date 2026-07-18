@@ -19,7 +19,7 @@ description: Professor of Marketing and Analytics
           I am a Professor of Marketing and Analytics at the UC Davis Graduate School of Management. My work sits at the intersection of marketing, sales, and technology, with a focus on how firms design strategies, incentives, and systems to drive growth.
         </p>
         <p>
-          My work has been published in leading journals including the <em>Journal of Marketing</em>, <em>Marketing Science</em>, <em>Journal of Marketing Research</em>, and <em>European Journal of Operational Research</em>.
+          My work has been published in leading journals including the <em>European Journal of Operational Research</em>, <em>Journal of Marketing</em>, <em>Journal of Marketing Research</em>, and <em>Marketing Science</em>.
         </p>
       </div>
     </div>
